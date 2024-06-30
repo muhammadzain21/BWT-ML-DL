@@ -2,3 +2,7 @@
 2. Implement functions within each module to perform respective operations.
 3. Create a main script (`main.py`) outside the package to demonstrate importing and using functions from the `math` package.
 
+Instructions
+1.Directory Structure: Create a folder named math_package and inside it, create another folder named mymath. Inside the mymath folder, create the Python modules as specified.
+2.main.py: Place this script in the math_package folder, outside the mymath directory.
+3.Run the main.py script: This script demonstrates the use of the package, with error handling for division by zero and square roots of negative numbers.
