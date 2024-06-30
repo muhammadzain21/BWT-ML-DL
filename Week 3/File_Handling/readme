@@ -1,3 +1,4 @@
+Task2:
 1. Write a Python program to read data from a text file (`data.txt`) and print its contents.
 2. Implement exception handling to manage scenarios such as file not found and errors while reading from the file.
 3. Create a function that writes user input to a new file (`output.txt`) and handles exceptions related to file writing.
