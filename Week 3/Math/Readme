@@ -1,1 +1,4 @@
+1. Design a Python package named `math` that includes modules for basic arithmetic operations (`addition`, `subtraction`, `multiplication`, `division`, `modulus`) with some advance mathematical operations such as exponentiation and square root.
+2. Implement functions within each module to perform respective operations.
+3. Create a main script (`main.py`) outside the package to demonstrate importing and using functions from the `math` package.
 
