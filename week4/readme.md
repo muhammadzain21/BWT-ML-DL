@@ -26,6 +26,6 @@ Use the near_expiry_generator function to get items that are nearing their expir
 Generate Reports: <br>
 Use functions like generate_report_near_expiry, generate_report_low_stock, and generate_category_summary to create various reports based on inventory data.
 <br>
-
+<br>
 Output: <br>
 At Last it will enter the inventory data to Output.csv file
