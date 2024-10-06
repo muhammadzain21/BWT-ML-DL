@@ -25,11 +25,11 @@ You can install these dependencies by running:
 
 ```bash
 pip install -r requirements.txt
-Dataset
+##Dataset
 This model is trained and tested on the COCO dataset, which contains images annotated with multiple labels across 80 categories. You can download the dataset from the official COCO dataset website.
 
-How to Run the Project
-Clone the Repository<br>
+##How to Run the Project
+Clone the Repository
 git clone https://github.com/muhammadzain21/BWT-ML-DL.git
 Prepare the Data
 Download and preprocess the COCO dataset. Ensure that the images and annotations are stored in the data/images/ and data/annotations/ directories, respectively.
